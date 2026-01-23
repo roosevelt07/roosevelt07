@@ -38,12 +38,12 @@
   ### 📊 Estatísticas
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roosevelt07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roosevelt07&layout=compact&theme=dracula"/>
 
   <br>
   
   ### 📫 Contato
-  <a href="[LINK_DO_LINKEDIN](https://www.linkedin.com/in/roosevelt-bispo-928497290/?trk=opento_sprofile_topcard)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="(https://www.linkedin.com/in/roosevelt-bispo-928497290/?trk=opento_sprofile_topcard)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:roosevelt.bispo777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
