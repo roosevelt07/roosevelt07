@@ -1,82 +1,49 @@
-# 💻 Roosevelt Junior
+<div align="center">
+  # Olá, sou o Roosevelt! 👋
+  
+  ### 👨‍💻 Desenvolvedor Full Stack | Entusiasta de IA e Data Science
+  
+  <p>
+    Bacharel em Ciência da Computação. Atualmente focado em criar soluções completas, 
+    do banco de dados ao front-end, com especial carinho por <b>Python</b> e automação.
+  </p>
 
-**`Desenvolvedor Web`**
+  ---
 
-👋 Olá, meu nome é Roosevelt Junior e sou estudante de Ciências da Computação na Universidade Católica de Pernambuco. Sou apaixonado por tecnologia, desenvolvimento de software e inovação. No meu GitHub, você encontrará projetos e contribuições focados em aprendizado de máquina, desenvolvimento web, e outras áreas de TI. 
+  ### 🛠 Tech Stack
 
----
+  **Backend & Data**
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-### 🤖 Linguagens e Tecnologias
+  **Frontend**
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+  ---
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+  ### 🚀 Projetos em Destaque
+  
+  | Projeto | Descrição | Techs |
+  | :--- | :--- | :--- |
+  | **Eikon Brain** | Assistente de IA para consultoria empresarial. | Python, OpenAI API, Streamlit |
+  | **Uso de inteligência de enxames para estimativa de propagação de epidemias e pandemias** | Simulação de Inteligência de enxames (ACO) e teoria dos Grafos para redes complexas.. | Python, Swarm intelligence, Graph Theory |
 
-<br/>
-<br/>
+  ---
 
-### 📊 Estatísticas
+  ### 📊 Estatísticas
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roosevelt07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=roosevelt07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <br>
+  
+  ### 📫 Contato
+  <a href="[LINK_DO_LINKEDIN](https://www.linkedin.com/in/roosevelt-bispo-928497290/?trk=opento_sprofile_topcard)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:roosevelt.bispo777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=roosevelt07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+</div>
