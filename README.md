@@ -81,7 +81,7 @@ class Roosevelt:
 |:---|:---|:---|
 | **🤖 Eikon Brain** | Assistente de IA para consultoria empresarial com raciocínio contextual avançado | `Python` `OpenAI API` `Streamlit` |
 | **🦠 Swarm Intelligence & Epidemias** | Simulação de propagação epidêmica via Inteligência de Enxames (ACO) e Teoria dos Grafos em redes complexas | `Python` `Swarm Intelligence` `Graph Theory` `NetworkX` |
-
+| **🧾 RTI Analisador Tributário** | Ferramenta Full Stack para simular o impacto da Reforma Tributária (EC 132/2023) em NF-e reais, comparando regime atual vs IVA Dual (CBS/IBS) | `Python` `FastAPI` `Streamlit` `Pandas` `Docker` |
 </div>
 
 > 💡 **Minha abordagem:** cada projeto nasce de um problema real e é construído com arquitetura limpa, documentação clara e código que qualquer humano (ou IA) consegue entender.
