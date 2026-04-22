@@ -103,10 +103,12 @@ class Roosevelt:
 
 ## 🧠 Atualmente Explorando
 
-- 🔭 Arquiteturas de **Agentes de IA** com memória e planejamento autônomo
-- 🌱 **Engenharia de Prompt Avançada** — frameworks LangGPT, DSPy e meta-prompting
-- ⚡ Pipelines de **RAG** (Retrieval-Augmented Generation) para aplicações empresariais
-- 🕸️ **Teoria dos Grafos** aplicada a redes sociais e epidemiologia computacional
+| Área | Tópico | Nível |
+|:---|:---|:---|
+| 🤖 Agentes de IA | Arquiteturas com memória e planejamento autônomo | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-7c3aed?style=flat-square) |
+| ✍️ Prompt Engineering | Frameworks LangGPT, DSPy e meta-prompting | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-7c3aed?style=flat-square) |
+| 📚 RAG Pipelines | Retrieval-Augmented Generation para empresas | ![70%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-70%25-7c3aed?style=flat-square) |
+| 🕸️ Teoria dos Grafos | Redes sociais e epidemiologia computacional | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-60%25-7c3aed?style=flat-square) |
 
 ---
 
