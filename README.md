@@ -96,7 +96,7 @@ class Roosevelt:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roosevelt07&theme=midnight-purple&hide_border=true&background=0d1117&border_radius=12" />
+  <img src="https://streak-stats.demolab.com/?user=roosevelt07&theme=midnight-purple&hide_border=true&background=0d1117&border_radius=12" />
 </div>
 
 ---
