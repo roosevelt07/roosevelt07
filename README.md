@@ -97,6 +97,20 @@ class Roosevelt:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=roosevelt07&theme=midnight-purple&hide_border=true&background=0d1117&border_radius=12" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roosevelt07&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
