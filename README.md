@@ -40,8 +40,8 @@ class Roosevelt:
 
     def agentes(self):
         return {
-            "Nexus":  "Mentor de Marketing com IA Generativa (Claude)",
-            "Vender": "Mentor de Vendas com IA Generativa (Claude)"
+            "Nexus":  "Especialista em Marketing Digital (Claude + Anti-AI Slop)",
+            "Vender": "Consultor de Vendas para PMEs (Claude + Psicologia Comportamental)"
         }
 ```
 
@@ -94,12 +94,12 @@ class Roosevelt:
 
 | 🧠 Agente | 📋 Descrição | 🧰 Stack | 🔗 |
 |:---|:---|:---|:---:|
-| **✨ Nexus — Mentor de Marketing** | Agente de IA que orienta estratégias de marketing, criação de conteúdo e posicionamento no LinkedIn | `Claude API` `Python` `Streamlit` | [🔗](#) |
-| **💼 Vender — Mentor de Vendas** | Agente de IA focado em técnicas de vendas, scripts e como se posicionar no LinkedIn para converter | `Claude API` `Python` `Streamlit` | [🔗](#) |
+| **✨ Nexus — Especialista em Marketing** | Agente de IA com protocolo anti-AI Slop, engenharia de ganchos psicológicos e storytelling estruturado em 7 micro-beats. Gera roteiros, estratégias e copy de alta conversão adaptados por plataforma (LinkedIn, TikTok, Instagram, YouTube) — sem fórmulas genéricas | `Claude API` `Prompt Engineering` `Chain-of-Thought` | [🔗](#) |
+| **💼 Vender — Consultor de Vendas** | Agente consultivo especializado em PMEs e serviços contábeis. Atua em tempo real no resgate de leads frios, contorno de objeções, estruturação de propostas orientadas a valor e negociação baseada em psicologia comportamental | `Claude API` `Prompt Engineering` `RAG` | [🔗](#) |
 
 </div>
 
-> 💡 Ambos os agentes foram construídos com **IA Generativa (Claude da Anthropic)** e são especializados em ajudar profissionais a publicar e se posicionar melhor no LinkedIn.
+> 💡 Dois agentes construídos com **Claude (Anthropic)** e arquitetados com técnicas avançadas de Prompt Engineering — Chain-of-Thought, Graph of Thoughts e Reflexão Agêntica. Nenhum output genérico: cada resposta passa por protocolo de autocrítica antes de ser entregue.
 
 ---
 
@@ -137,21 +137,16 @@ class Roosevelt:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roosevelt07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roosevelt07&show_icons=true&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roosevelt07&layout=compact&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d1117&langs_count=8" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roosevelt07&layout=compact&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=roosevelt07&theme=midnight-purple&hide_border=true&background=0d1117&border_radius=12" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake.svg" />
-</picture>
+<br/><br/>
+
+<img alt="snake animation" src="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -173,93 +168,11 @@ class Roosevelt:
 
 | Área | Tópico | Nível |
 |:---|:---|:---|
-| 🤖 Agentes de IA | Arquiteturas com memória e planejamento autônomo | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-7c3aed?style=flat-square) |
-| ✍️ Prompt Engineering | Frameworks LangGPT, DSPy e meta-prompting | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-7c3aed?style=flat-square) |
-| 📚 RAG Pipelines | Retrieval-Augmented Generation para empresas | ![70%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-70%25-7c3aed?style=flat-square) |
-| 🕸️ Teoria dos Grafos | Redes sociais e epidemiologia computacional | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-60%25-7c3aed?style=flat-square) |
-| 🧬 IA Generativa | Agentes Claude para negócios e LinkedIn | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-85%25-7c3aed?style=flat-square) |
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-<i>"A inteligência artificial não substitui o engenheiro que a domina — ela o multiplica."</i>
-
-</div><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-### 🌐 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-### 📊 Dados & Análise
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-### 🗄️ Banco de Dados & DevOps
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-| 🔬 Projeto | 📋 Descrição | 🧰 Tecnologias |
-|:---|:---|:---|
-| **🤖 Eikon Brain** | Assistente de IA para consultoria empresarial com raciocínio contextual avançado | `Python` `OpenAI API` `Streamlit` |
-| **🦠 Swarm Intelligence & Epidemias** | Simulação de propagação epidêmica via Inteligência de Enxames (ACO) e Teoria dos Grafos em redes complexas | `Python` `Swarm Intelligence` `Graph Theory` `NetworkX` |
-| **🧾 RTI Analisador Tributário** | Ferramenta Full Stack para simular o impacto da Reforma Tributária (EC 132/2023) em NF-e reais, comparando regime atual vs IVA Dual (CBS/IBS) | `Python` `FastAPI` `Streamlit` `Pandas` `Docker` |
-</div>
-
-> 💡 **Minha abordagem:** cada projeto nasce de um problema real e é construído com arquitetura limpa, documentação clara e código que qualquer humano (ou IA) consegue entender.
-
----
-
-## 📊 GitHub em Números
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roosevelt07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roosevelt07&layout=compact&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=roosevelt07&theme=midnight-purple&hide_border=true&background=0d1117&border_radius=12" />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/roosevelt07/roosevelt07/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roosevelt07&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🧠 Atualmente Explorando
-
-| Área | Tópico | Nível |
-|:---|:---|:---|
-| 🤖 Agentes de IA | Arquiteturas com memória e planejamento autônomo | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-7c3aed?style=flat-square) |
-| ✍️ Prompt Engineering | Frameworks LangGPT, DSPy e meta-prompting | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-7c3aed?style=flat-square) |
-| 📚 RAG Pipelines | Retrieval-Augmented Generation para empresas | ![70%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-70%25-7c3aed?style=flat-square) |
-| 🕸️ Teoria dos Grafos | Redes sociais e epidemiologia computacional | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-60%25-7c3aed?style=flat-square) |
+| 🤖 Agentes de IA | Arquiteturas multi-agente com memória e planejamento autônomo | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-7c3aed?style=flat-square) |
+| ✍️ Prompt Engineering | LangGPT, DSPy, meta-prompting e Chain-of-Thought | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-85%25-7c3aed?style=flat-square) |
+| 📚 RAG Pipelines | Retrieval-Augmented Generation para casos de uso empresariais | ![75%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-75%25-7c3aed?style=flat-square) |
+| 🤖 RPA & Automação | Playwright stealth para fluxos governamentais (Receita Federal) | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-7c3aed?style=flat-square) |
+| 🕸️ Teoria dos Grafos | Redes complexas e epidemiologia computacional | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-60%25-7c3aed?style=flat-square) |
 
 ---
 
