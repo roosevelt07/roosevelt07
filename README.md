@@ -5,7 +5,7 @@
 
 <!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Transformando+dados+em+intelig%C3%AAncia+%F0%9F%A7%A0;Construindo+do+banco+de+dados+ao+front-end+%F0%9F%94%A7;Python+%2B+IA+%2B+Automa%C3%A7%C3%A3o+%3D+Meu+stack+favorito+%E2%9C%A8;Agentes+de+IA+com+Claude+e+OpenAI+%F0%9F%A4%96;Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Transformando+dados+em+intelig%C3%AAncia+%F0%9F%A7%A0;Construindo+do+banco+de+dados+ao+front-end+%F0%9F%94%A7;Python+%2B+IA+%2B+Automa%C3%A7%C3%A3o+%3D+Meu+stack+favorito+%E2%9C%A8;Agentes+de+IA+com+Claude+e+OpenAI+%F0%9F%A4%96;Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
